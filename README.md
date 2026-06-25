@@ -57,12 +57,12 @@
 
 ### 📊 GitHub Activity:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunvamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&icon_color=00d9ff&text_color=ccd6f6" alt="GitHub Stats" width="48%" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunvamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&text_color=ccd6f6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunvamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&icon_color=00d9ff&text_color=ccd6f6" alt="GitHub Stats" height="165px" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunvamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&text_color=ccd6f6" alt="Top Languages" height="165px" />
   
   <br/><br/>
   
-  <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" height="165px" />
 </div>
 
 <br/>

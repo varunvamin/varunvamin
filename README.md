@@ -1,5 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/varunvamin/varunvamin/main/banner.svg" alt="Varun V Amin" width="100%" />
+
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Embedded+Systems+Developer;LLM+Fine-tuning+%26+RAG+Pipelines;Thinking+in+circuits...;Dreaming+in+tensors...)](https://git.io/typing-svg)
 </div>
 
 <br/>
@@ -11,7 +15,6 @@
 - 🌱 Focusing on **LLM Fine-tuning, RAG Pipelines, and Embedded Systems**
 - 💼 Experience: **MESCOM — Electrical Distribution & AI Integration**
 - 🌐 Dive into my digital journey on my **[Portfolio Website](https://varun-portofolio-xi.vercel.app/)**!
-- ⚡ Fun fact: **I think in circuits but dream in tensors ⚡🧠**
 
 <br/>
 
@@ -53,14 +56,31 @@
 
 <br/>
 
-### 📺 Personal Interests:
-<div align="center">
-  <a href="https://myanimelist.net/profile/Varun-">
-    <img src="https://awidgets.erslly.dev/widgets/myanimelist?username=Varun-&theme=tokyonight" alt="MyAnimeList Stats" width="98%" />
-  </a>
-</div>
+### 📺 Favorites (Anime & Characters):
 
-<br/><br/>
+**Top Anime**
+<p align="left">
+  <a href="https://myanimelist.net/anime/269/Bleach"><img src="https://cdn.myanimelist.net/images/anime/3/40451.jpg" width="110px" alt="Bleach" /></a>
+  &nbsp;&nbsp;
+  <a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa"><img src="https://cdn.myanimelist.net/images/anime/5/87048.jpg" width="110px" alt="Kimi no Na wa" /></a>
+  &nbsp;&nbsp;
+  <a href="https://myanimelist.net/anime/40456/Kimetsu_no_Yaiba_Movie__Mugen_Ressha-hen"><img src="https://cdn.myanimelist.net/images/anime/1704/106947.jpg" width="110px" alt="Mugen Train" /></a>
+  &nbsp;&nbsp;
+  <a href="https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai"><img src="https://cdn.myanimelist.net/images/anime/1301/93586.jpg" width="110px" alt="Bunny Girl Senpai" /></a>
+</p>
+
+**Top Characters**
+<p align="left">
+  <img src="https://cdn.myanimelist.net/images/characters/2/263249.jpg" width="80px" alt="Ichigo" title="Ichigo Kurosaki" />
+  &nbsp;
+  <img src="https://cdn.myanimelist.net/images/characters/16/430588.jpg" width="80px" alt="Rengoku" title="Kyojuro Rengoku" />
+  &nbsp;
+  <img src="https://cdn.myanimelist.net/images/characters/9/365538.jpg" width="80px" alt="Mai" title="Mai Sakurajima" />
+</p>
+
+> *"In a world full of isekai protagonists, be a Rengoku."*
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/varunvamin">

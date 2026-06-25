@@ -13,7 +13,7 @@
 - 🎓 3rd Year B.Tech ECE @ NMAM Institute of Technology, Nitte
 - 🔭 Currently working on **BirdCLEF 2026 (Kaggle) & RAG Medical Assistant**
 - 🌱 Focusing on **LLM Fine-tuning, RAG Pipelines, and Embedded Systems**
-- 💼 Experience: **MESCOM — Electrical Distribution & AI Integration**
+- 💼 Experience: **AI & NLP Intern @ Invent Health | Ex-Intern @ MESCOM**
 - 🌐 Dive into my digital journey on my **[Portfolio Website](https://varun-portofolio-xi.vercel.app/)**!
 
 <br/>
@@ -56,7 +56,16 @@
 
 <br/>
 
-### 📺 Favorites (Anime & Characters):
+### 📺 Anime Stats & Favorites:
+
+```ini
+[INFO]  Days spent watching anime  : 62.2
+[INFO]  Total episodes consumed    : 3,721
+[INFO]  Series completed           : 197
+[INFO]  Mean score                 : 7.38 / 10
+[INFO]  Currently watching         : Enen no Shouboutai: San no Shou ★9
+[STATUS] Weeb level                : DANGEROUS ⚠️
+```
 
 **Top Anime**
 <p align="left">

@@ -1,0 +1,109 @@
+<svg width="100%" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Varun V Amin — AI &amp; Embedded Systems Developer</title>
+  <desc>Dark navy banner with circuit board traces, name, and title</desc>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="#0a192f" rx="8"/>
+
+  <!-- Circuit traces (decorative) -->
+  <g stroke="#00d9ff" stroke-width="1" fill="none" opacity="0.18">
+    <!-- Horizontal lines -->
+    <line x1="0" y1="40" x2="200" y2="40"/>
+    <line x1="700" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="180" x2="180" y2="180"/>
+    <line x1="720" y1="180" x2="900" y2="180"/>
+    <!-- Vertical connectors -->
+    <line x1="200" y1="40" x2="200" y2="80"/>
+    <line x1="180" y1="180" x2="180" y2="140"/>
+    <line x1="700" y1="40" x2="700" y2="80"/>
+    <line x1="720" y1="180" x2="720" y2="140"/>
+    <!-- Inner horizontals -->
+    <line x1="200" y1="80" x2="260" y2="80"/>
+    <line x1="640" y1="80" x2="700" y2="80"/>
+    <line x1="180" y1="140" x2="250" y2="140"/>
+    <line x1="650" y1="140" x2="720" y2="140"/>
+    <!-- Dots (solder points) -->
+  </g>
+  <!-- Solder dots -->
+  <g fill="#00d9ff" opacity="0.35">
+    <circle cx="200" cy="40" r="3"/>
+    <circle cx="700" cy="40" r="3"/>
+    <circle cx="200" cy="80" r="3"/>
+    <circle cx="700" cy="80" r="3"/>
+    <circle cx="180" cy="180" r="3"/>
+    <circle cx="720" cy="180" r="3"/>
+    <circle cx="180" cy="140" r="3"/>
+    <circle cx="720" cy="140" r="3"/>
+    <circle cx="260" cy="80" r="3"/>
+    <circle cx="640" cy="80" r="3"/>
+    <circle cx="250" cy="140" r="3"/>
+    <circle cx="650" cy="140" r="3"/>
+    <!-- scattered dots -->
+    <circle cx="60" cy="40" r="2.5"/>
+    <circle cx="120" cy="40" r="2.5"/>
+    <circle cx="840" cy="40" r="2.5"/>
+    <circle cx="780" cy="40" r="2.5"/>
+    <circle cx="60" cy="180" r="2.5"/>
+    <circle cx="120" cy="180" r="2.5"/>
+    <circle cx="840" cy="180" r="2.5"/>
+    <circle cx="780" cy="180" r="2.5"/>
+  </g>
+
+  <!-- Chip shape left -->
+  <g opacity="0.22">
+    <rect x="20" y="85" width="60" height="50" rx="3" fill="none" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="30" y1="85" x2="30" y2="75" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="45" y1="85" x2="45" y2="75" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="60" y1="85" x2="60" y2="75" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="30" y1="135" x2="30" y2="145" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="45" y1="135" x2="45" y2="145" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="60" y1="135" x2="60" y2="145" stroke="#00d9ff" stroke-width="1"/>
+  </g>
+
+  <!-- Chip shape right -->
+  <g opacity="0.22">
+    <rect x="820" y="85" width="60" height="50" rx="3" fill="none" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="830" y1="85" x2="830" y2="75" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="845" y1="85" x2="845" y2="75" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="860" y1="85" x2="860" y2="75" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="830" y1="135" x2="830" y2="145" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="845" y1="135" x2="845" y2="145" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="860" y1="135" x2="860" y2="145" stroke="#00d9ff" stroke-width="1"/>
+  </g>
+
+  <!-- Cyan accent line -->
+  <line x1="310" y1="155" x2="590" y2="155" stroke="#00d9ff" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Name -->
+  <text x="450" y="105"
+        font-family="'Courier New', Courier, monospace"
+        font-size="52"
+        font-weight="700"
+        fill="#ccd6f6"
+        text-anchor="middle"
+        letter-spacing="4">VARUN V AMIN</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="143"
+        font-family="'Courier New', Courier, monospace"
+        font-size="15"
+        fill="#00d9ff"
+        text-anchor="middle"
+        letter-spacing="2">AI / ML DEVELOPER  ·  EMBEDDED SYSTEMS  ·  ECE @ NMAM NITTE</text>
+
+  <!-- Bottom tagline -->
+  <text x="450" y="185"
+        font-family="'Courier New', Courier, monospace"
+        font-size="11"
+        fill="#64748b"
+        text-anchor="middle"
+        letter-spacing="1">bridging hardware and intelligent software</text>
+
+  <!-- Corner brackets -->
+  <g stroke="#00d9ff" stroke-width="1.5" fill="none" opacity="0.5">
+    <path d="M295 60 L285 60 L285 72"/>
+    <path d="M605 60 L615 60 L615 72"/>
+    <path d="M295 165 L285 165 L285 153"/>
+    <path d="M605 165 L615 165 L615 153"/>
+  </g>
+</svg>

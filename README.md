@@ -11,7 +11,7 @@
 ## 👋 Hi, I'm Varun V Amin
 
 - 🎓 3rd Year B.Tech ECE @ NMAM Institute of Technology, Nitte
-- 🔭 Currently working on **BirdCLEF 2026 (Kaggle) & RAG Medical Assistant**
+- 🔭 Currently working on **Epsilon (RAG Study Suite) & My Personal Portfolio**
 - 🌱 Focusing on **LLM Fine-tuning, RAG Pipelines, and Embedded Systems**
 - 💼 Experience: **AI & NLP Intern @ Invent Health | Ex-Intern @ MESCOM**
 - 🌐 Dive into my digital journey on my **[Portfolio Website](https://varun-portofolio-xi.vercel.app/)**!
@@ -66,7 +66,7 @@
 
 <br/>
 
-**Top Anime**
+**Favourite Anime**
 <p align="left">
   <a href="https://myanimelist.net/anime/269/Bleach"><img src="https://cdn.myanimelist.net/images/anime/3/40451.jpg" width="110px" alt="Bleach" /></a>
   &nbsp;&nbsp;
@@ -77,7 +77,7 @@
   <a href="https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai"><img src="https://cdn.myanimelist.net/images/anime/1301/93586.jpg" width="110px" alt="Bunny Girl Senpai" /></a>
 </p>
 
-**Top Characters**
+**Favourite Characters**
 <p align="left">
   <img src="./rengoku.jpg" height="110px" alt="Kyojuro Rengoku" title="Kyojuro Rengoku" />
   &nbsp;&nbsp;

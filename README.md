@@ -51,7 +51,7 @@
 
 ### ⭐ Featured Work:
 - 🧠 **Epsilon RAG Suite**: Multi-model LLM routing and document intelligence pipeline.
-- 🩺 **Clinical Data Pipeline**: High-performance SNOMED-CT to ICD-10 automation using FastAPI.
+- 🤖 **Science Tutor LLM**: Fine-tuned Llama-based educational chatbot via LoRA with a two-layer classification system.
 
 <br/>
 

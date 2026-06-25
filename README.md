@@ -40,7 +40,18 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-1C3C3C?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
+
+<br/>
+
+### ⭐ Featured Work:
+- 🧠 **Epsilon RAG Suite**: Multi-model LLM routing and document intelligence pipeline.
+- 🩺 **Clinical Data Pipeline**: High-performance SNOMED-CT to ICD-10 automation using FastAPI.
 
 <br/>
 
@@ -67,7 +78,7 @@
 <br/>
 
 **Favourite Anime**
-<p align="left">
+<p align="center">
   <a href="https://myanimelist.net/anime/269/Bleach"><img src="https://cdn.myanimelist.net/images/anime/3/40451.jpg" width="110px" alt="Bleach" /></a>
   &nbsp;&nbsp;
   <a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa"><img src="https://cdn.myanimelist.net/images/anime/5/87048.jpg" width="110px" alt="Kimi no Na wa" /></a>
@@ -78,7 +89,7 @@
 </p>
 
 **Favourite Characters**
-<p align="left">
+<p align="center">
   <img src="./rengoku.jpg" height="110px" alt="Kyojuro Rengoku" title="Kyojuro Rengoku" />
   &nbsp;&nbsp;
   <img src="./mai.jpg" height="110px" alt="Mai Sakurajima" title="Mai Sakurajima" />

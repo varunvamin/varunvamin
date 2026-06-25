@@ -83,12 +83,6 @@ varun = {
 
 <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" width="98%" />
 
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=varunvamin&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" width="98%" />
-</a>
-
 </div>
 
 ---

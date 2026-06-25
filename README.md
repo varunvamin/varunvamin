@@ -79,8 +79,6 @@
 
 **Top Characters**
 <p align="left">
-  <img src="./ichigo.jpg" height="110px" alt="Ichigo Kurosaki" title="Ichigo Kurosaki" />
-  &nbsp;&nbsp;
   <img src="./rengoku.jpg" height="110px" alt="Kyojuro Rengoku" title="Kyojuro Rengoku" />
   &nbsp;&nbsp;
   <img src="./mai.jpg" height="110px" alt="Mai Sakurajima" title="Mai Sakurajima" />

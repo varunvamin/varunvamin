@@ -79,11 +79,11 @@
 
 **Top Characters**
 <p align="left">
-  <img src="https://i.pinimg.com/236x/87/b8/08/87b8089408d6b460c5a3b918b9c6f2ed.jpg" height="110px" alt="Ichigo" title="Ichigo Kurosaki" />
+  <img src="./ichigo.jpg" height="110px" alt="Ichigo Kurosaki" title="Ichigo Kurosaki" />
   &nbsp;&nbsp;
-  <img src="https://i.pinimg.com/236x/6c/dc/13/6cdc134c4f346065cf50a80b18f4a34b.jpg" height="110px" alt="Rengoku" title="Kyojuro Rengoku" />
+  <img src="./rengoku.jpg" height="110px" alt="Kyojuro Rengoku" title="Kyojuro Rengoku" />
   &nbsp;&nbsp;
-  <img src="https://i.pinimg.com/236x/aa/5b/c9/aa5bc9ebfc414c5b3c37df6a09040332.jpg" height="110px" alt="Mai" title="Mai Sakurajima" />
+  <img src="./mai.jpg" height="110px" alt="Mai Sakurajima" title="Mai Sakurajima" />
 </p>
 
 > *"In a world full of isekai protagonists, be a Rengoku."*

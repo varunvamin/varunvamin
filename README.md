@@ -56,16 +56,15 @@
 
 <br/>
 
-### 📺 Anime Stats & Favorites:
+### 📺 Personal Interests & Favorites:
 
-```ini
-[INFO]  Days spent watching anime  : 62.2
-[INFO]  Total episodes consumed    : 3,721
-[INFO]  Series completed           : 197
-[INFO]  Mean score                 : 7.38 / 10
-[INFO]  Currently watching         : Enen no Shouboutai: San no Shou ★9
-[STATUS] Weeb level                : DANGEROUS ⚠️
-```
+<div align="center">
+  <a href="https://myanimelist.net/profile/Varun-">
+    <img src="https://awidgets.erslly.dev/widgets/myanimelist?username=Varun-&theme=tokyonight" alt="MyAnimeList Stats" width="98%" />
+  </a>
+</div>
+
+<br/>
 
 **Top Anime**
 <p align="left">
@@ -80,11 +79,11 @@
 
 **Top Characters**
 <p align="left">
-  <img src="https://cdn.myanimelist.net/images/characters/2/263249.jpg" width="80px" alt="Ichigo" title="Ichigo Kurosaki" />
-  &nbsp;
-  <img src="https://cdn.myanimelist.net/images/characters/16/430588.jpg" width="80px" alt="Rengoku" title="Kyojuro Rengoku" />
-  &nbsp;
-  <img src="https://cdn.myanimelist.net/images/characters/9/365538.jpg" width="80px" alt="Mai" title="Mai Sakurajima" />
+  <img src="https://i.pinimg.com/236x/87/b8/08/87b8089408d6b460c5a3b918b9c6f2ed.jpg" height="110px" alt="Ichigo" title="Ichigo Kurosaki" />
+  &nbsp;&nbsp;
+  <img src="https://i.pinimg.com/236x/6c/dc/13/6cdc134c4f346065cf50a80b18f4a34b.jpg" height="110px" alt="Rengoku" title="Kyojuro Rengoku" />
+  &nbsp;&nbsp;
+  <img src="https://i.pinimg.com/236x/aa/5b/c9/aa5bc9ebfc414c5b3c37df6a09040332.jpg" height="110px" alt="Mai" title="Mai Sakurajima" />
 </p>
 
 > *"In a world full of isekai protagonists, be a Rengoku."*

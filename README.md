@@ -69,8 +69,8 @@
   
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunvamin&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="Activity Graph" height="165px" />&nbsp;
-  <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" height="165px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunvamin&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="Activity Graph" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" width="43%" />
 
   <br/><br/>
 

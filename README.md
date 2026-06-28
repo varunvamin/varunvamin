@@ -68,6 +68,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunvamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&text_color=ccd6f6" alt="Top Languages" height="165px" />
   
   <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunvamin&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="Activity Graph" width="98%" />
+  
+  <br/><br/>
   
   <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" height="165px" />
 

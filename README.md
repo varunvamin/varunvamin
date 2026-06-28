@@ -118,6 +118,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/varunvamin">
     <img src="https://komarev.com/ghpvc/?username=varunvamin&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />

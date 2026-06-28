@@ -62,11 +62,7 @@
 
 ### 📊 GitHub Activity:
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=varunvamin&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="varunvamin trophies" />
-  </a>
 
-  <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=varunvamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&icon_color=00d9ff&text_color=ccd6f6" alt="GitHub Stats" height="165px" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunvamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&text_color=ccd6f6" alt="Top Languages" height="165px" />

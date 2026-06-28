@@ -66,6 +66,14 @@
   <br/><br/>
   
   <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" height="165px" />
+
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>

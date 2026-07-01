@@ -64,7 +64,8 @@
 <div align="center">
 
   
-  <img src="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunvamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&icon_color=00d9ff&text_color=ccd6f6" alt="GitHub Stats" height="165px" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunvamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&text_color=ccd6f6" alt="Top Languages" height="165px" />
   
   <br/><br/>
 

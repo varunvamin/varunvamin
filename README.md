@@ -106,7 +106,7 @@
 
 **Favourite Characters**
 <p align="center">
-  <img src="./rengoku.jpg" height="110px" alt="Kyojuro Rengoku" title="Kyojuro Rengoku" />
+  <img src="./assets/rengoku.jpg" height="110px" alt="Kyojuro Rengoku" title="Kyojuro Rengoku" />
   &nbsp;&nbsp;
   <img src="./mai.jpg" height="110px" alt="Mai Sakurajima" title="Mai Sakurajima" />
 </p>

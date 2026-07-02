@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/varunvamin/varunvamin/main/banner.svg" alt="Varun V Amin" width="100%" />
+  <img src="https://raw.githubusercontent.com/varunvamin/varunvamin/main/assets/banner.svg" alt="Varun V Amin" width="100%" />
 
   <br/>
   

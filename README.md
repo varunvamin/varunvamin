@@ -108,7 +108,7 @@
 <p align="center">
   <img src="./assets/rengoku.jpg" height="110px" alt="Kyojuro Rengoku" title="Kyojuro Rengoku" />
   &nbsp;&nbsp;
-  <img src="./mai.jpg" height="110px" alt="Mai Sakurajima" title="Mai Sakurajima" />
+  <img src="./assets/mai.jpg" height="110px" alt="Mai Sakurajima" title="Mai Sakurajima" />
 </p>
 
 > *"In a world full of isekai protagonists, be a Rengoku."*

@@ -70,14 +70,14 @@
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunvamin&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="Activity Graph" width="55%" />
-  <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" width="43%" />
+  <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&v=1" alt="GitHub Streak" width="43%" />
 
   <br/><br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/varunvamin/varunvamin/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 

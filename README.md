@@ -10,7 +10,7 @@
 
 ## 👋 Hi, I'm Varun V Amin
 
-- 🎓 3rd Year B.Tech ECE @ NMAM Institute of Technology, Nitte
+- 🎓 Final Year B.Tech ECE @ NMAM Institute of Technology, Nitte
 - 🔭 Currently working on **Epsilon (RAG Study Suite) & My Personal Portfolio**
 - 🌱 Focusing on **LLM Fine-tuning, RAG Pipelines, and Embedded Systems**
 - 💼 Experience: **Ex-AI & NLP Intern @ Invent Health | Ex-Intern @ MESCOM**

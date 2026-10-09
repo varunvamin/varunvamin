@@ -64,12 +64,12 @@
 <div align="center">
 
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=varunvamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&icon_color=00d9ff&text_color=ccd6f6" alt="GitHub Stats" height="165px" />&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varunvamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00d9ff&text_color=ccd6f6" alt="Top Languages" height="165px" />
+  <img src="https://raw.githubusercontent.com/varunvamin/varunvamin/output/stats.svg" alt="GitHub Stats" height="165px" />&nbsp;
+  <img src="https://raw.githubusercontent.com/varunvamin/varunvamin/output/langs.svg" alt="Top Languages" height="165px" />
   
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunvamin&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="Activity Graph" width="55%" />
+  <img src="https://raw.githubusercontent.com/varunvamin/varunvamin/output/activity.svg" alt="Activity Graph" width="55%" />
   <img src="https://streak-stats.demolab.com?user=varunvamin&theme=tokyonight&hide_border=true&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" width="43%" />
 
   <br/><br/>

@@ -1,0 +1,49 @@
+name: Generate Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/metrics.yml'
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: output
+          config_theme: tokyonight
+          base: header, repositories
+          config_order: base.header, base.repositories
+
+      - name: Generate Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: output
+          config_theme: tokyonight
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+
+      - name: Generate Activity Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: output
+          config_theme: tokyonight
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year

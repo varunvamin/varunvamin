@@ -37,7 +37,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 6
 
-      - name: Generate Activity Calendar
+      - name: Generate Activity Chart
         uses: lowlighter/metrics@latest
         with:
           filename: activity.svg
@@ -45,5 +45,18 @@ jobs:
           committer_branch: output
           config_theme: tokyonight
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+
+      - name: Generate Anime Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anime.svg
+          token: NOT_NEEDED
+          committer_branch: output
+          config_theme: tokyonight
+          base: ""
+          plugin_anime: yes
+          plugin_anime_provider: myanimelist
+          plugin_anime_user: Varun-

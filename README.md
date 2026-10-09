@@ -87,7 +87,7 @@
 
 <div align="center">
   <a href="https://myanimelist.net/profile/Varun-">
-    <img src="https://awidgets.erslly.dev/widgets/myanimelist?username=Varun-&theme=tokyonight" alt="MyAnimeList Stats" width="98%" />
+    <img src="https://raw.githubusercontent.com/varunvamin/varunvamin/output/anime.svg" alt="MyAnimeList Stats" width="98%" />
   </a>
 </div>
 
